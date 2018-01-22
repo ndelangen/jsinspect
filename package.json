@@ -1,6 +1,6 @@
 {
   "name": "@ndelangen/jsinspect",
-  "version": "0.12.7",
+  "version": "0.12.8",
   "description": "Detect structural similarities in your code",
   "keywords": [
     "inspect",
@@ -38,5 +38,6 @@
   },
   "scripts": {
     "test": "mocha -R spec spec spec/reporters"
-  }
+  },
+  "private": false
 }
