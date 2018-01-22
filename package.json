@@ -1,5 +1,5 @@
 {
-  "name": "jsinspect",
+  "name": "@ndelangen/jsinspect",
   "version": "0.12.7",
   "description": "Detect structural similarities in your code",
   "keywords": [
